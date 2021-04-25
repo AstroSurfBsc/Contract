@@ -1,8 +1,3 @@
-    /** Astro Surf the next X1000 defi deflationary TOKEN on Binance Smart Chain.
-        5% goes to the holder's wallet.
-        5% of each transaction is locked to liquidity forever.
-     */
-
 pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
 interface IERC20 {
